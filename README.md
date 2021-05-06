@@ -1,7 +1,7 @@
 # antilink-js
 
 
-# 1.Download the files
+# 1. Download the files
   open them with visual studio code
 # 2. Make sure you have nodejs installed if not
   here is the download link https://nodejs.org/en/download/
